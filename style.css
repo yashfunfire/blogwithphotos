@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    color: : red;
+    background-color: aqua;
+    font-size: 15px;
+    margin: :25px;
+}
+
+
+.image_section {
+    display: flex;
+    justify-content:space-around;
+}
+
+.image_section2 {
+    display: flex;
+    justify-content:space-around;
+}
+
+
+.section_style {
+    margin-left: :25px;
+    margin-right: :25px; 
+}
